@@ -1,2 +1,2 @@
-# <p align="center"><a href="#" target="_blank"><img src="https://mvtechzone.com/img/codelets.png"></a></p>
+# <p align="center"><a href="#" target="_blank"><img src="https://github.com/dev-techguy/TechGuy/blob/master/techguy.png"></a></p>
 
